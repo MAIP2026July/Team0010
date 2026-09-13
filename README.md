@@ -12,3 +12,5 @@ Governed Document Generation Utility for Sales Workflows
 Enterprise B2B Software — Sales Operations. 
 5. Target User
 Sales representatives who prepare customer-facing documents, deal desk and legal reviewers who approve them, and platform administrators who would configure the utility for a new document type.
+
+Complete details are uploaded under the issue.
