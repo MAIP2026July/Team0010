@@ -1,5 +1,5 @@
 # Team0010
-Capstone project for MAIP, Management of AI Products (MBA ZG583, BITS Pilani WILP).
+AI Powered governed Document Generation Utility for Sales Workflows
 Name: Dhanunjaya Gunde
 Student ID: 2025MB26021
 1. Team Name
